@@ -8,7 +8,12 @@
 4. CCharacterManager, CSwappableCharacter 생성 -> CCharacterManager를 통해 현재 필드에 나와있는 캐릭터를 컨트롤, CSwappableCharacter를 상속받아 각각 캐릭터 생성
 5. 캐릭터 애니메이션 변경 및 공격 애니메이션
 ![image](https://github.com/user-attachments/assets/d2f00cb0-16e9-4e4e-9832-8df9552785df)
-![image](https://github.com/user-attachments/assets/bfda90d5-723f-4085-b3e4-8b2755fa63f8)
+![image](https://github.com/user-attachments/assets/bfda90d5-723f-4085-b3e4-8b2755fa63f8)   
+6. 루트모션을 이용한 이동을 사용하고싶은데   
+![image](https://github.com/user-attachments/assets/5b886cdf-4c15-4a24-abde-7a1e0d229dcc)
+사진처럼 루트모션이 땅속으로 박혀 아래로 내려가는 문제가 있다. 루트모션의 방향을 변경하고싶어서 인터넷에서 찾아보는 중이다. 이거 못고치면 공격시 이동이 이상하게 적용되어서 굉장히 슬플것 같다 따흐흑...
+7. 캐릭터 변경이 어렵다 메쉬를 바꿔야하는건가 아니면 다른 캐릭터들의 visible만 끄는건가... 캐릭터 변경도 DataAsset으로 관리를 해야하는건가...?
+
 
 현재 목표
 =========
@@ -26,3 +31,8 @@
 공격모션도 안나온다! 행복해! 즐거워!   
 그보다 더 어려운건 캐릭터를 CSwappableCharacter를 상속받아서 만들 때 스킬을 어디에 만들어야 할지 모르겠다... 예전 프로젝트처럼 DoAction을 만들고 평타 스킬모션 전부 거기에 넣어야 하나?   
 그냥 CSwappableCharacter에 평타 q,e,r 만들고 캐릭터 별 cpp에 상속 받아서 만들면 안되나? 뭐가 좋은지 뭐가 되는지를 잘 모르겠다...
+
+너무 애니메이션에서 시간을 잡아먹는 것 같다... ~~알바 다녀와서 한시간정도 하다 의자에서 잠드니깐 허리가 너무 아프다...~~   
+스킬관리도 너무 어렵다 데이터 에셋으로 한다면 캐릭터를 변경할 때 데이터 에셋이 변경되어야 할텐데 그때마다 데이터 에셋을 변경할 수 있는 건가? 이것 때문에 메쉬만 바꾸는 것은 안될꺼 같기도 하고...   
+결국 상속받은 캐릭터 3개를 캐릭터 변경시 불러오는게 맞는 것 같은데 아휴 어렵기도 하지 내가 왜 괜히 주제를 이걸로 정해선...   
+루트모션 변경이 가능한건가? 이건 왜 찾아봐도 나오질 않지?
