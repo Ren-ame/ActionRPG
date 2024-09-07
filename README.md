@@ -54,10 +54,8 @@
 ![image](https://github.com/user-attachments/assets/05041256-7cc2-4891-8770-864c2e5b0d17)   
 위 사진처럼 캐릭터가 하나 더 생성된다 그래서 플레이어 스타트를 지웠더니
 ![image](https://github.com/user-attachments/assets/9fac0edf-3379-4889-a70d-e141c6402b29)  
-이 사진처럼 공중에서 생성되어있다 왜인지 ![XX-W9_YQV1h2dJBNdqTrNWTVd-8H3iHgaYrToeoYm7PIScV5VZHwjPmw9K3VJ4puuYfiuIirNqtaRz0eWoDs3Q](https://github.com/user-attachments/assets/73304a29-74ae-4882-bc06-40b5d61e112a)
-
-
-
+이 사진처럼 공중에서 생성되어있다 왜 그러는지는 
+                                            ![XX-W9_YQV1h2dJBNdqTrNWTVd-8H3iHgaYrToeoYm7PIScV5VZHwjPmw9K3VJ4puuYfiuIirNqtaRz0eWoDs3Q](https://github.com/user-attachments/assets/d4ff1a0f-b436-4858-819c-50d17cd37825)
 
 
 
