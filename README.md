@@ -15,10 +15,10 @@
 7. 캐릭터 변경이 어렵다 메쉬를 바꿔야하는건가 아니면 다른 캐릭터들의 visible만 끄는건가... 캐릭터 변경도 DataAsset으로 관리를 해야하는건가...?
 8. 캐릭터 변경 코드 작성 중
    애니메이션 루트 방향을 어떻게 바꾸는지 아직도 모르겠다 커브를 이래저래 만져보고있지만 원하는 대로 이동이 되지않는다...
-9.   
-   ![image](https://github.com/user-attachments/assets/ef2b0091-6c09-4fb8-bae3-7797ad79ff46)
+9. Possess   
+![image](https://github.com/user-attachments/assets/ef2b0091-6c09-4fb8-bae3-7797ad79ff46)
    ![image](https://github.com/user-attachments/assets/0291630c-e1ee-4a1a-b5c9-abd075d588e3)
-   이익!!!!!!!! 캐릭터를 Possess로 전환할때 카메라가 이렇게 박혀버린다... 캐릭터에서 카메라를 생성하지 않고 컨트롤러에서 생성해야하나싶다.
+    캐릭터를 Possess로 전환할때 카메라가 이렇게 박혀버린다... 캐릭터에서 카메라를 생성하지 않고 컨트롤러에서 생성해야하나싶다.
    
 
 
